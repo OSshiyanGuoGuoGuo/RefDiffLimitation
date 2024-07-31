@@ -1,6 +1,6 @@
 public class ReptileAndFish {
 
-    public static class Reptile {
+    public static class Turtle {
         private String name;
 
         public Reptile(String name) {
@@ -12,7 +12,7 @@ public class ReptileAndFish {
         }
     }
 
-    public static class Fish {
+    public static class Shark {
         private String name;
 
         public Fish(String name) {
