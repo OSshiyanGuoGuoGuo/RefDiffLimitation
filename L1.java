@@ -9,7 +9,7 @@ public class L1 {
         System.out.println(location);
     }
 
-    public String getLocation() {
+    public String getLoc() {
         return location;
     }
 
